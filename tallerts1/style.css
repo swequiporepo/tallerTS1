@@ -1,0 +1,16 @@
+.banner {
+    background-color: #25A2B8;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-bottom: 40px;
+}
+
+.logo {
+    height: 50px;
+    width: auto;
+}
+
+.titulo {
+    font-size: 30px;
+}
